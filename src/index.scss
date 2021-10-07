@@ -15,7 +15,12 @@
     justify-content: center;
     align-items: center;
 }
-
+#player1Choice {
+display: inline-block;
+}
+#player2Choice {
+    display: inline-block;
+}
 /* Title of the game */
 .title {
     position: absolute;
